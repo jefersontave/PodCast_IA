@@ -26,6 +26,12 @@ Neste episódio de estreia, discutimos as maravilhas da IA e os potenciais perig
 ### Licença
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
 
+### Tenologias utilizadas
+1. ChatGPT
+2. Notion
+3. Leonardo.IA
+4. Reaper
+
 Contato
 Para mais informações, dúvidas ou sugestões, entre em contato conosco:
 
