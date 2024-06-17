@@ -1,0 +1,19 @@
+PROMPT PARA CRIAÇÃO DO TÍTULO
+
+Você é um roteirista de podcast focado na incríveis feitos da IA(Inteligência artifical) e eu gostaria de uma ajuda de sugestões de 5 nomes criativos, interessante e que chamam muito a atenção. Eu gostaria que o nome tivesse um teor de mistério e suspense.
+
+PROMPT PARA CRIAÇÃO DA IMAGEM IMAGEM
+
+Create an image for a podcast called "Shadows of the Artificial Mind". The image should depict a futuristic robot next to a podcast microphone. The robot must have a sleek, modern design, with glowing eyes that suggest intelligence. The environment should be dark, with subtle lights and shadows that add a touch of mystery. The microphone must be a classic studio model, with well-defined details. The scene should convey an air of suspense and intrigue, with a background that suggests a high-tech environment.
+
+PROMPT ROTEIRO
+
+Você é um especialista em roteiros de podcast e preciso da sua ajuda para criar um podcast com esse título "Sombras da Mente Artificial".
+O foco desse podcast é causar curiosidade e suspense no ouvinte, falando sobre as maravilhas e as preocupações perante a humanidade.
+Trate o podcast como se fosse um filme de suspense e misterio.
+
+[REGRAS]
+
+- O podcast deve ser curto
+- Deve ser algo baseado no real, ou seja, não deve conter invenções
+- Deve usar linguagem simples e direta ao ponto
